@@ -1,4 +1,4 @@
-🌐 Aspiring Cybersecurity student | 🛡️ Security Researcher | 
+🌐 Cybersecurity and Cloud Security Professional | 🛡️ Security Researcher | 
 
 Passionate about securing the digital world, I'm on a journey to explore the depths of cybersecurity. From ethical hacking to threat analysis,
 I thrive on unraveling the complexities of the cyber realm. Currently honing my skills in Python scripting for cybersecurity applications.
