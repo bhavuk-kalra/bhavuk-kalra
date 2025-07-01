@@ -23,7 +23,7 @@
 | **[Threat Lens](https://threatlens.vercel.app)** | Python, Flask, APIs | Aggregates threat intel from VirusTotal, Shodan, and AbuseIPDB for SOC use |
 | **Network Threat Monitoring** | Wazuh, CVE, Windows Logs | Cross-platform SIEM for live detection with custom rules and incident simulation |
 
-> Explore more in [my repositories](https://github.com/bhavukkalra?tab=repositories)
+> Explore more in [my repositories](https://github.com/bhavuk-kalra?tab=repositories)
 
 ---
 
@@ -51,10 +51,10 @@
 
 ### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavukkalra)
-[![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavuk-kalra)
+[![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail)](mailto:bhavukinfosec@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/bhavukkalra)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/bhavuk-kalra)
 
 ---
 
